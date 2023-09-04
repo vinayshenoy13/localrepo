@@ -1,0 +1,15 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  color: rgb(25, 113, 207);
+}
+p {
+  color: rgb(0, 87, 15);
+}
+
+#btn {
+  font-weight: 1000;
+  background-color: red;
+}
